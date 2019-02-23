@@ -1,0 +1,1620 @@
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-010818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-050818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-080818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100818\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\FaceRecProOV-100818-Backup copy\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-110818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-120818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-150818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-190818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-250818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-280818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-300818\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-020918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-040918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-070918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-100918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-130918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-140918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-180918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-200918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-210918\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-220918\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-260918\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-011018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FaceRecProOV-031018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\IronPython.SQLite.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\IronPython.Wpf.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\IronPython.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\IronPython.Modules.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\IronPython.SQLite.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\IronPython.Wpf.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051018\Final Year Project - 051018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\IronPython.SQLite.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\IronPython.Wpf.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\IronPython.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\IronPython.Modules.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\IronPython.SQLite.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\IronPython.Wpf.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091018\Final Year Project - 091018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101018\Final Year Project - 101018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121018\Final Year Project - 121018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 151018\Final Year Project - 151018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 161018\Final Year Project - 161018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 181018\Final Year Project - 181018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmViewSavedImages.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.PasswordIdentificationToTakeAttendance.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 221018\Final Year Project - 221018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.Frm_Average_Face.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.TrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 241018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 261018\Final Year Project - 261018\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 271018\Final Year Project - 271018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 281018\Final Year Project - 281018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 291018\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.pdb
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\MultiFaceRec.exe.config
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\MultiFaceRec.exe
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\MultiFaceRec.pdb
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\IKVM.Reflection.dll
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\IronPython.dll
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\IronPython.Modules.dll
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\Microsoft.Dynamic.dll
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\Microsoft.Scripting.dll
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\Emgu.CV.xml
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\Emgu.CV.UI.xml
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\Emgu.Util.xml
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\291018-620pm\Final Year Project - 291018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.exe
+C:\291018-620pm\Final Year Project - 291018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmFaceRecPython.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmAverageFace2.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmDetectFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 311018\Final Year Project - 311018\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 021118\Final Year Project - 021118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 051118\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 051118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 061118\Final Year Project - 061118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 071118\Final Year Project - 071118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\mokwenjun-repo\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 091118\Final Year Project - 091118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 101118\Final Year Project - 101118\obj\x86\Debug\MultiFaceRec.FrmModifyAttendanceSheet.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmModifyAttendanceSheet.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 121118\Final Year Project - 121118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmModifyAttendanceSheet.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 131118\Final Year Project - 131118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmModifyAttendanceSheet.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 201118\Final Year Project - 201118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\IKVM.Reflection.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\IronPython.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\IronPython.Modules.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmLBPH_Experiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmModifyAttendanceSheet.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 211118\Final Year Project - 211118\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmModifyAttendanceSheet.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 031218\Final Year Project - 031218\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\bin\Debug\MultiFaceRec.exe.config
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\bin\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\bin\Debug\MultiFaceRec.pdb
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\bin\Debug\Emgu.CV.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\bin\Debug\Emgu.Util.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmAdministratorMainPage.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmAttendanceRecords.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmAverageFace.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmEigenfacesExperiments.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmLogin.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmRegister.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmMainForm.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmModifyAttendanceSheet.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.FrmTrainFaces.resources
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tokyo\OneDrive\Desktop\My FYP documents\FYP - 022319\Final Year Project - 022319\obj\x86\Debug\MultiFaceRec.pdb
